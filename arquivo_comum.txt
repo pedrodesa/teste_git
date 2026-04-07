@@ -1,1 +1,2 @@
 Arquivo que será modificado no local e no remoto
+Alterado remoto
